@@ -1,5 +1,5 @@
 h1 {
-font-family:"zapfino";
+font-family:"futura";
 background-color: gray;
 border: solid black;
 
@@ -7,19 +7,14 @@ border: solid black;
 
 }
 
-h2{
-font-family:"futura";
-border: solid black;
-
-
-}
-
 p2{
- font-family: "futura";
+font-family:"futura";
+text-align: center;
 }
+
+
 
 h3{
 font-family:"futura";
-
-
+position: absolute;
 }
