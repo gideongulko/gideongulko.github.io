@@ -9,7 +9,7 @@ border: solid black;
 
 p2{
 font-family:"futura";
-text-align: center;
+
 }
 
 
@@ -17,4 +17,11 @@ text-align: center;
 h3{
 font-family:"futura";
 position: absolute;
+}
+
+h2{
+float: right;
+text-align: center;
+font-family:"futura";
+
 }
