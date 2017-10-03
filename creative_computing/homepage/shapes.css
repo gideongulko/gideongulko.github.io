@@ -1,0 +1,50 @@
+#SHAPES{
+color: black;
+font-family: futura;
+}
+
+.shape {
+   border-radius: 30px;
+  height: 150px;
+  width: 150px;
+  background-color: #0074d9;
+  margin-bottom: 30px;
+  float:right;
+  margin-right: 20px;
+  transition: background-color 2s ease-out;
+}
+
+
+.shape2 {
+  border-radius: 30px;
+  height: 150px;
+  width: 150px;
+  background-color: #0074d9;
+  margin-bottom: 30px;
+  float:right;
+  margin-right: 20px;
+
+}
+
+
+.shape3 {
+  border-radius: 30px;
+  height: 150px;
+  width: 150px;
+  background-color: #0074d9;
+  margin-bottom: 30px;
+  float:right;
+  margin-right: 20px;
+
+
+}
+
+.shape:hover {
+  background-color: red;
+  cursor: pointer;
+
+
+
+
+
+
